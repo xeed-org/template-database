@@ -1,0 +1,5 @@
+<xeed-template><template-header><name>Werewolf 3</name><description>.</description><ID>Werewolf 2_1442305291969</ID><author>Frans</author><date>15/09/2015</date><game>WtA</game><version>2</version><xeed-build>45</xeed-build></template-header><section><section-header><name>General</name><ID>General1</ID></section-header><item><name>Name</name><id>NAME</id><type>6</type></item><item><name>Concept</name><id>Concept2</id><type>1</type></item><item><name>Tribe</name><id>Tribe3</id><type>1</type></item><item><name>Auspice</name><id>Auspice4</id><type>1</type></item><item><name>Breed</name><id>Breed5</id><type>1</type></item><item><name>Rank</name><id>Rank6</id><type>1</type></item>
+<item><name>Homid Name</name><id>HomidName1</id><type>1</type></item>
+<item><name>Title</name><id>Title1</id><type>1</type></item>
+<item><name>Pack</name><id>Pack1</id><type>1</type></item>
+</section></xeed-template>
